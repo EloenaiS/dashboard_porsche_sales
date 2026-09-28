@@ -228,7 +228,7 @@ O exemplo abaixo demonstra a dashboard após a aplicação do filtro **Porsche M
 
 O filtro altera os indicadores e visualizações para refletir somente os registros selecionados.
 
-![Dashboard com filtro aplicado](assets/dashboard-filtros.png)
+![Dashboard com filtro aplicado](https://github.com/EloenaiS/dashboard_porsche_sales/blob/a84f220a0bda62fd7f4eaafd7c5d6e9b380a339e/Print%20Filtro%20Dashboard.png)
 
 Neste exemplo, a seleção resulta em:
 
